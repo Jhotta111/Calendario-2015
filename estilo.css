@@ -17,6 +17,7 @@ table {
     margin-right: auto;
     margin-top: 3%;
     margin-bottom: auto;
+    text-align: center;
 }
 
 caption {
@@ -29,6 +30,7 @@ section.ene {
 
 td.ene, th.ene {
     border-bottom: rgb(143, 175, 218) 1px solid;
+    text-align: center;
 }
 
 
