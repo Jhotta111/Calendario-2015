@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(143, 175, 218);
+}
+
+table {
+    background-color: rgb(223, 220, 190);
+    border: black 1px solid;
+}
+
+caption {
+    font-weight: bold;
+}
+
+section {
+    width: 50%;
+    background-color: rgb(223, 220, 190);
+    border-collapse: collapse;
+    letter-spacing: 5px;
+}
+
+td.ene, th.ene {
+    border-bottom: black 1px solid;
+    border-collapse: collapse;
+    letter-spacing: 5px;
+  text-align: center;
+}
+
+  td.feb, th.feb {
+    border: black 1px solid;
+    border-collapse: collapse;
+    border-collapse: collapse;
+}
+  
+
+td.mar, th.mar {
+    border: black 1px solid;
+    border-collapse: collapse;
+}
